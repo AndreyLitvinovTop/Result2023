@@ -214,9 +214,7 @@
     }
 
     .main{
-        padding: 50px 0;
-        background-size: cover;
-        background-repeat: no-repeat;
+        padding: 50px 0;    
     }
 
     .about{
@@ -233,7 +231,5 @@
 
     .photo-grid{
         grid-template-columns: 250px;
-    }
-
-    
+    } 
 }
