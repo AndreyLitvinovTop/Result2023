@@ -39,8 +39,7 @@
 .main{
     padding: 150px 0;
     background-image: url(image/IMG_20230627_171637.jpg);
-    background-position: bottom;
-    background-size: contain;
+    background-size: cover;
 }
 
 .main-content{
