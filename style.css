@@ -209,13 +209,14 @@
         max-width: 100%;
     }
 
-    
     .title{
         font-size: 24px;
     }
 
     .main{
         padding: 50px 0;
+        background-position: bottom;
+        background-size: contain;
     }
 
     .about{
